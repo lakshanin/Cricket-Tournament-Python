@@ -1,0 +1,18 @@
+Team 1 - Pakistan
+Team 1 Score - 189
+Team 2 - England
+Team 2 Score - 104
+Winner - Pakistan
+
+Team 1 - Sri Lanka
+Team 1 Score - 118
+Team 2 - New Zealand
+Team 2 Score - 122
+Winner - New Zealand
+
+Team 1 - West Indies
+Team 1 Score - 214
+Team 2 - Sri Lanka
+Team 2 Score - 167
+Winner - West Indies
+

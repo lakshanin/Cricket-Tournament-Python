@@ -1,0 +1,12 @@
+Cap,Name
+87,Haider Ali
+73,Shadab Khan
+70,Babar Azam
+71,Hasan Ali
+60,Mohammad Rizwan
+74,Fakhar Zaman
+78,Shaheen Afridi
+86,Haris Rauf
+69,Iftikhar Ahmed
+62,Imad Wasim
+57,Sharjeel Khan

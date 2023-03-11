@@ -1,0 +1,12 @@
+Cap,Name
+31,Virat Kohli
+45,Bhuvneshwar
+60,Yuzvendra Chahal
+68,Rishabh Pant
+36,Shikhar Dhawan
+57,Jasprit Bumrah
+73,Shardul Thakur
+30,Ravichandran Ashwin
+58,Hardik Pandya
+70,Shreyas Iyer
+82,Shivam Dube

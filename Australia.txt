@@ -1,0 +1,12 @@
+Cap,Name
+53,Matthew Wade
+59,Mitchell Starc
+58,Glenn Maxwell
+61,Nathan Coulter-Nile
+85,Billy Stanlake
+74,Marcus Stoinis
+90,D'Arcy Short
+32,David Warner
+43,Steve Smith
+75,Travis Head
+51,Pat Cummins

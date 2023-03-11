@@ -1,0 +1,12 @@
+Cap,Name
+77,Oshane Thomas
+75,Fabian Allen
+66,Rovman Powell
+69,Shimron Hetmyer
+82,Hayden Waish
+61,Jason Holder
+79,Obed McCoy
+6,Chris Gayle
+13,Ravi Rampaul
+18,Lendl Simmons
+26,Kieron Pollard

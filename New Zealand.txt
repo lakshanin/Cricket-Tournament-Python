@@ -1,0 +1,12 @@
+Cap,Name
+90,Rachin Ravindra
+83,Hamish Bennett
+74,Glenn Phillips
+37,Martin Guptilll
+30,Tim Southee
+64,Ish Sodhi
+59,James Neesham
+51,Colin de Grandhomme
+84,Devon Conway
+80,Scott Kuggeleijin
+70,Tom Bruce

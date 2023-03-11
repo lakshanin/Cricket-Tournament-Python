@@ -1,0 +1,12 @@
+Cap,Name
+81,Dawid Malan
+83,Jake Ball
+79,Tom Curran
+70,Jason Roy
+54,Jos Buttler
+58,Ben Stokes
+65,Chris Jordan
+66,Moeen Ali
+56,Jonny Bairstow
+46,Adil Rashid
+71,Sam Billings
